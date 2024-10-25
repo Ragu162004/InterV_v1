@@ -1,0 +1,23 @@
+.Maincontainer {
+    height: 100vh;
+    max-width: 100vw;
+    max-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.container {
+    width: 70%;
+    height: 70vh;
+    background: hsl(var(--hue), var(--sat), 6%);
+    box-shadow: rgba(19, 39, 67, 0.15)0px 48px 100px 0px;
+    border-radius: 25px;
+    border: 4px solid rgb(49, 48, 48);
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (min-width :) {}
